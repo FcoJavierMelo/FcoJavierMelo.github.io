@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Javier Melo
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Data Scienct & Scrum Master
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://media-exp1.licdn.com/dms/image/C4D03AQEnWYJwNItvLA/profile-displayphoto-shrink_800_800/0/1581333117504?e=1624492800&v=beta&t=5O3pWT41s9Y9wGZERHUnh4fP546xygHl9DXyyQNO9Jw
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: fcojaviermelo
   instagram:
-  linkedin:
+  linkedin: f-javier-melo-delgado
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
