@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Empieza la aventura
 ---
 
 Me he pasado todos los bootcamps, por 300M € al mes soy tuyo.
