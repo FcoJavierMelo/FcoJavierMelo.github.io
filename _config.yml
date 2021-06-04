@@ -3,14 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Javier Melo
+name: Fco Javier Melo
 
 # Short bio or description (displayed in the header)
 description: Data Scienct & Scrum Master
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://media-exp1.licdn.com/dms/image/C4D03AQEnWYJwNItvLA/profile-displayphoto-shrink_800_800/0/1581333117504?e=1624492800&v=beta&t=5O3pWT41s9Y9wGZERHUnh4fP546xygHl9DXyyQNO9Jw
-
+avatar: https://media-exp3.licdn.com/dms/image/C4D03AQHPmh83rtd6Bg/profile-displayphoto-shrink_800_800/0/1622572695802?e=1628121600&v=beta&t=JbBGKWEtpdVY5Vrh61i2x-JtRoaiinGpt5GmEIttzYo
 #
 # Flags below are optional
 #
@@ -23,7 +22,7 @@ footer-links:
   flickr:
   github: fcojaviermelo
   instagram:
-  linkedin: f-javier-melo-delgado-836590131
+  linkedin: fcojaviermelo
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
